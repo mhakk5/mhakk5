@@ -60,12 +60,6 @@ Multi-step user interactions with state machines and interactive keyboards.
 - **Tech:** Symfony, API Platform, Telegram Bot API
 - **Features:** Persistent state management, callback queries, user flow orchestration
 
-### **Automated AI Video Generation** - Side Business (In Planning)
-Building a cost-effective content creation pipeline for daily shorts.
-- **Target:** TikTok, Instagram Reels, YouTube Shorts
-- **Automation:** n8n workflows with AI services integration
-- **Audience:** English-speaking creators
-
 ---
 
 ## 🔧 Automation & Home Server
