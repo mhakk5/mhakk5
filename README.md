@@ -1,6 +1,6 @@
 # Mouataz | Full-Stack Developer & AI Enthusiast
 
-Welcome to my GitHub! I'm a **Full-Stack Developer** with 3+ years of professional experience building scalable web applications, currently based in **Morocco** and pursuing a **Master's degree in Artificial Intelligence and Smart Systems**.
+Welcome to my GitHub! I'm a **Software engineer** ,**Full-Stack Developer** with 3+ years of professional experience building scalable web applications, currently based in **Morocco** and pursuing a **Master's degree in Artificial Intelligence and Smart Systems**.
 
 ---
 
